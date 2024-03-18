@@ -1,5 +1,8 @@
 _repo: L-immoraliste_73058
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73058-h/images/cover.jpg
 creator:
   author:
     agent_name: Gide, André
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Andr%C3%A9_Gide
     - https://fr.wikipedia.org/wiki/Andr%C3%A9_Gide
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73058#L-immoraliste
 gutenberg_issued: '2024-02-27'
 gutenberg_type: Text
 identifiers:
